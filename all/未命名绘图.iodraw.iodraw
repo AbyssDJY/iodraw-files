@@ -7,8 +7,8 @@
         <mxCell id="Hn5eDLdFmugH_7Eq0hJ_-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hn5eDLdFmugH_7Eq0hJ_-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="Hn5eDLdFmugH_7Eq0hJ_-2" value="猕猴桃数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
