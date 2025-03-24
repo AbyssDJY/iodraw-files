@@ -31,17 +31,14 @@
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-13" value="数据标注" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="215" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r3dRc2qvogtc_C5RNDWZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r3dRc2qvogtc_C5RNDWZ-14" target="r3dRc2qvogtc_C5RNDWZ-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-14" value="数据清洗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-15" value="数据增强" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="395" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r3dRc2qvogtc_C5RNDWZ-16" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="295" width="90" height="45" as="geometry" />
+        <mxCell id="r3dRc2qvogtc_C5RNDWZ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
