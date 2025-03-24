@@ -34,6 +34,9 @@
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-14" value="数据清洗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="305" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r3dRc2qvogtc_C5RNDWZ-15" value="数据增强" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
