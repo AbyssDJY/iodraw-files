@@ -31,7 +31,7 @@
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-13" value="数据标注" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="215" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r3dRc2qvogtc_C5RNDWZ-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r3dRc2qvogtc_C5RNDWZ-14" value="数据清洗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="305" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
