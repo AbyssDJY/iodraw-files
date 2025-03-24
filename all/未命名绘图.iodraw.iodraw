@@ -22,6 +22,9 @@
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="r3dRc2qvogtc_C5RNDWZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r3dRc2qvogtc_C5RNDWZ-4" target="r3dRc2qvogtc_C5RNDWZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="90" height="40" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="245" y="395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="295" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
