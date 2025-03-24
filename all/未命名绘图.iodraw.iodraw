@@ -28,6 +28,9 @@
         <mxCell id="r3dRc2qvogtc_C5RNDWZ-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="r3dRc2qvogtc_C5RNDWZ-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
